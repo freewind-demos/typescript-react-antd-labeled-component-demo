@@ -1,4 +1,4 @@
-TypeScript React AntDesign Demo
+TypeScript React AntDesign Labeled Component Demo
 =================================
 
 ```
